@@ -342,7 +342,7 @@
 
     </form>
     </div>
-</div>
+  </div>
 </div>
 
 <?php
